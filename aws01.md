@@ -17,6 +17,7 @@
 [AWS 02  ](./aws-02.md).
 [AWS 03  ](./aws-03.md).
 [AWS 04  ](./aws-04.md). 
+<br><br><br><br>
 
 ### AWS Networking ###
 
@@ -35,7 +36,7 @@ VPC with Public and Private Subnets and Hardware VPN Access
 
 VPC with a Private Subnet Only and Hardware VPN Access
 
-<br><br>
+<br><br><br><br>
 
 ### The Default VPC ### 
 
@@ -67,6 +68,8 @@ The size of an existing CIDR block is not always flexible ; cannot be increased 
 3. Create a NAT Gateway for private subnet
 
 4. Create a route table attach an IG or subnet route table 
+
+5. Limit or allow traffic with NACL or thru security group 
 
 
 
