@@ -20,12 +20,8 @@
  
  <br><br><br><br>
  
- **Reactive Microservices Pattern**
+ **Data Consistency**
  <br><br>
-*  Instead of writing blocking code with old web servers use netty reactive server and spring webflux
-
-*  Return reactive types in spring boot controllers endpoints
-
-*  Make microservices self-healing and resilient
+*  Eventual consistency states that our data will only be fully consistent due to problems of microservices and fine granularity of database separation
  
  
