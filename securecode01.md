@@ -71,6 +71,7 @@
 
 * **Identity Attributes the elements of an identity? examples like identity—name, department, location, login ID, identification number, e-mail address, and others**
 
+<br><br>
 * **Certificates**
 
 * **When there is a process of presentation of a certificate - this is Certificate-based authentication**
