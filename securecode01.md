@@ -3,6 +3,7 @@
 
 <br><br>
 
+
 ### Secure Software Concepts
 
 * **Secure Software Concepts**
@@ -20,7 +21,10 @@
  1. Access controls
  2. Encryption
 
-* **Factors to Apply or Implement Confidentiality Controls :**
+<br>
+
+### Factors to Apply or Implement Confidentiality Controls 
+
 
  1. Failure to protect key
  2. Failure to use algorithms from approved cryptographic libraries [ Using own crypto, may lead to failure ] 
@@ -33,19 +37,23 @@
 
 * **A system of access control mechanisms, with diff levels of access with respect to read, write, and delete will place a piece integrity assurance in system**
 
-* **Availability means resolving specific two issues: ensuring systems are available for authorized users when they require those systems and denying access to unauthorized users.
+* **Availability means resolving specific two issues: ensuring systems are available for authorized users when they require those systems and denying access to unauthorized users.**
+
 * **Balancing the pillars in CIA triad helps define the security requirement that should be design in system**
 
 * **Authentication is the process of determining the identity of a user  this element of security is giving differentiation of authorized and unauthorized users**
 
 * **To help in authentication process a user can provide**
 
- Something you know (passwords)
+<br>
 
- Something you have (ATM card)
+```
+ 1.Something you know (passwords)
 
- Something about you (biometrics)
- 
+ 2.Something you have (ATM card)
+
+ 3.Something about you (biometrics)
+ ```
  <br>
  
  * **Multifactor authentication  is simply the combination of two or more layers of authentication. Five broad categories of authentication can be used: what you are (for example, biometrics), what you have (for instance, tokens), what you know (passwords and other information), somewhere you are (location), and something you do (physical performance).**
@@ -71,6 +79,7 @@
 * **SSH Keys access credentials used in Secure Shell (SSH) connection -used for automated processes and service also used in single sign-on (SSO) systems **
 
 * **X.509 standard, certificate manipulation is stated and controlled by the X.509 standard** 
+```
 
 •    Serial number 
 
@@ -87,6 +96,9 @@
 •    Certificate usage
 
 •    Version number
+
+```
+
 
 <br>
 
@@ -122,5 +134,27 @@
 
 * **Secure software development is about ensuring that all components of a finished software are constructed in a fashion where they work securely**
 
+
+* **The key element of SDL**
+
+* **Passing Gates and Reviewing Security Requirements**
+
+* **Bug Tracking**
+
+* **Threat modeling you have tocommunicate information associated with a threat to the development team**
+
+* **Fuzzing is a test technique with proper inputs does system display logical outputs for undesired behaviors. This explores potential vulnerability**
+
+* **Security Reviews adding a series mini security review enhance SDL. Here the security elements in place are under examination**
+
+* **Bug Mitigation Teams can**
+
+•   Do nothing
+
+•   Warn the user
+
+•   Remove the problem
+
+•   Fix the problem
 
 
