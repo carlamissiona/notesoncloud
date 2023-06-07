@@ -88,9 +88,39 @@
 
 •    Version number
 
+<br>
+
 * **Single sign-on makes it possible for a user, after authentication, to have their credentials reused on other applications reuse the credentials against another system. Methods Kerberos and Security Assertion Markup Language. Also includes the OpenID protocol.**
 
+* **Authorization is the process of giving access to a user with the process or resources in a system**
 
+* **Common access control models include**
+   
+      1. Mandatory access control (MAC), 
+      2. Discretionary access control (DAC), 
+      3. Role-based access control (RBAC), and rule-based access control (RBAC)
+
+
+* **Accountability -Accounting is a means of measuring activity - specifically in security this is the recording of actions and the users performing them (logging)**
+
+* **When the transaction is crucial accounting or logging then is a requirement so they may be audited at a later date and time. Auditing is management’s way to observe the operation**
+
+* **Audit logs enhance security but it is not a security control in of themselves**
+ 
+* **To maintain an audit logs  these elements are necessary 1. A monitoring system 2.detection 3. Response process.**
+
+<br><br><br>
+### Secure development lifecycle model 
+
+* 1. Add a process checks to include security elements in the software development process. This addition will enhance security quality of software or reduce bugs
+
+* **If the product or software maitains quality but lacks security, then the result is a set of vulnerabilities**
+
+* **If the product or software maitains securityquality but lacks quality, then the result is a set of misbehaviors or illogical features**
+
+### Security Features != Secure Software
+
+* **Secure software development is about ensuring that all components of a finished software are constructed in a fashion where they work securely**
 
 
 
