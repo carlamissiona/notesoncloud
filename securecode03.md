@@ -108,6 +108,7 @@
  <br>
  <br>
 **OWASP Risk Rating**
+
 * Risk = Likelihood* Impact
  <br>
  <br>
