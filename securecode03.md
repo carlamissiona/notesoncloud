@@ -28,26 +28,15 @@
   * **Operation Plan- Training plans, Software deployment plans** 
 
 
-**Change Management**
-* **Changes can lead to security issues -So prevent compromise after change**
  
-* **Do These Mitigations**
-  * Monitor change
-  * Test change
-  * Allow rollback of change
-  * Inform users of change
-  * Analyze effects of change
-  * Minimize negative impact of change
-  * Allow review of change by Change Approval Board (CAB)
- <br>
  
  **Security Policy**
 
-* Requires support of senior management to succeed
+ * Requires support of senior management to succeed
 
-* Evidence of due care and due diligence
+ * Evidence of due care and due diligence
 
-* According to security principles like privacy, password management, etc
+ * According to security principles like privacy, password management, etc
 
 <br>
 
@@ -75,6 +64,8 @@
 
 <br>
 
+
+
 **Static Application Security Testing**
 
 * Helps identify errorneous or security flawed code
@@ -85,32 +76,35 @@
 <br>
 <br>
 
-**Static Application Security Testing**
+**CVE Common Vulnerability Exposure**
 
-* Helps identify errorneous or security flawed code
-* These tools helps provide mitigations for vulnerabilities in security 
-* With these kind of testing flaws will be found out early in SDLC
-* Most solutions are platform or language independent
-
+* Lists of common identifiers for publicly known cyber security vulnerabilities
+ 
 <br>
 
-**Static Application Security Testing**
+**CVE Common Weakness Enumeration**
 
-* Helps identify errorneous or security flawed code
-* These tools helps provide mitigations for vulnerabilities in security 
-* With these kind of testing flaws will be found out early in SDLC
-* Most solutions are platform or language independent
-
+* A list developed by community of common software security weaknesses 
 <br>
 <br>
-**Static Application Security Testing**
+<br>
 
-* Helps identify errorneous or security flawed code
-* These tools helps provide mitigations for vulnerabilities in security 
-* With these kind of testing flaws will be found out early in SDLC
-* Most solutions are platform or language independent
+**The Protection Of Information In Computer Systems** 
+<br>
+<br>
 
-
+**Change Management**
+* **Changes can lead to security issues -So prevent compromise after change**
+ 
+* **Do These Mitigations**
+  * Monitor change
+  * Test change
+  * Allow rollback of change
+  * Inform users of change
+  * Analyze effects of change
+  * Minimize negative impact of change
+  * Allow review of change by Change Approval Board (CAB)
+ <br>
 
 
 
