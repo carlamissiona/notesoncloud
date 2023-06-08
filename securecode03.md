@@ -105,6 +105,15 @@
   * Minimize negative impact of change
   * Allow review of change by Change Approval Board (CAB)
  <br>
+ <br>
+ <br>
+**OWASP Risk Rating**
+* Risk = Likelihood* Impact
+ <br>
+ <br>
+ <br>
+
+
 
 
 
