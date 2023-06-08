@@ -4,19 +4,70 @@
 <br><br>
 
 
-### Secure Software Concepts
+### Security Governance & Policy
 
-* **Secure Software Concepts**
+**Security Governance - This is administration of an organization's security program**
+ 
+* **Approaches to Security Governance - Top-down & Bottom-up**
 
-* **Secure Software Concepts- Concepts from information security domain**
+* **Top-down**
+   * **Upper management makes security policies**
+   * **Lower professionals flesh out security policies**
+   
+   
+* **Bottom-up**
+* IT staff makes security decisions
 
-*  _**CIA**_ **common concepts in security: confidentiality, integrity, and availability (CIA).**
+**Strategic Plan**
 
-* **Confidentiality is the concept of preventing the exposure of information to unauthorized users.**
+* **Long-term Plan - Lifetime: 5 years**
 
-* **Confidentiality is also keeping secrets secret.Having Authorized parties makes the means there is authorization**  
+* **Tactical Plan - Project & hiring plans, budget strategy**
 
-* **Some methods of keeping data confidential:**
+* **Operation Plan- Training plans, Software deployment plans** 
 
- 1. Access controls
- 2. Encryption
+
+**Change Management**
+* **Changes can lead to security issues -So prevent compromise after change**
+ 
+* **Do These Mitigations**
+  * Monitor change
+  * Test change
+  * Allow rollback of change
+  * Inform users of change
+  * Analyze effects of change
+  * Minimize negative impact of change
+  * Allow review of change by Change Approval Board (CAB)
+ <br>
+ 
+ **Security Policy**
+
+* Requires support of senior management to succeed
+
+* Evidence of due care and due diligence
+<br>
+
+ **Confidentiality Requirements**
+
+* Use of password masking and encryption 
+
+* Use of TLS communication this is protection for data in transit
+
+* Logfiles should not include sensitive information
+
+* Do not use FTP use SFTP FTPS
+
+
+ **Integrity Requirements**
+
+* Code injection is integrity threat - use input validation for mitigation of sql injection 
+
+* Message Digest, Hashing, CRC & checksum
+
+
+ **Availability Requirements**
+
+* Make highly available infrastructure, graceful-degradation and fail-safe security 
+
+
+
