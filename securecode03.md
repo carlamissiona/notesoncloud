@@ -8,23 +8,24 @@
 
 **Security Governance - This is administration of an organization's security program**
  
-* **Approaches to Security Governance - Top-down & Bottom-up**
+  **Approaches to Security Governance - Top-down & Bottom-up**
 
-* **Top-down**
-   * **Upper management makes security policies**
-   * **Lower professionals flesh out security policies**
+  **Top-down**
+    **Upper management makes security policies**
+    **Lower professionals flesh out security policies**
    
    
-* **Bottom-up**
-* IT staff makes security decisions
+  **Bottom-up**
+    **IT staff makes security decisions**
+
 
 **Strategic Plan**
 
-* **Long-term Plan - Lifetime: 5 years**
+  * **Long-term Plan - Lifetime: 5 years**
 
-* **Tactical Plan - Project & hiring plans, budget strategy**
+  * **Tactical Plan - Project & hiring plans, budget strategy**
 
-* **Operation Plan- Training plans, Software deployment plans** 
+  * **Operation Plan- Training plans, Software deployment plans** 
 
 
 **Change Management**
@@ -45,6 +46,9 @@
 * Requires support of senior management to succeed
 
 * Evidence of due care and due diligence
+
+* According to security principles like privacy, password management, etc
+
 <br>
 
  **Confidentiality Requirements**
@@ -68,6 +72,45 @@
  **Availability Requirements**
 
 * Make highly available infrastructure, graceful-degradation and fail-safe security 
+
+<br>
+
+**Static Application Security Testing**
+
+* Helps identify errorneous or security flawed code
+* These tools helps provide mitigations for vulnerabilities in security 
+* With these kind of testing flaws will be found out early in SDLC
+* Most solutions are platform or language independent
+
+<br>
+<br>
+
+**Static Application Security Testing**
+
+* Helps identify errorneous or security flawed code
+* These tools helps provide mitigations for vulnerabilities in security 
+* With these kind of testing flaws will be found out early in SDLC
+* Most solutions are platform or language independent
+
+<br>
+
+**Static Application Security Testing**
+
+* Helps identify errorneous or security flawed code
+* These tools helps provide mitigations for vulnerabilities in security 
+* With these kind of testing flaws will be found out early in SDLC
+* Most solutions are platform or language independent
+
+<br>
+<br>
+**Static Application Security Testing**
+
+* Helps identify errorneous or security flawed code
+* These tools helps provide mitigations for vulnerabilities in security 
+* With these kind of testing flaws will be found out early in SDLC
+* Most solutions are platform or language independent
+
+
 
 
 
