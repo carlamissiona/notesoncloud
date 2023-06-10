@@ -36,6 +36,11 @@ DevSecOps is the framework that comprises spans the entire IT Team elements that
 _The Capability Maturity Model (CMM) is a methodology used to develop and refine an organization's process of software development. The model describes a five-level or evolutionary steps-path of increasingly mature software development processes._
 
 
+
+
+
+
+
 * Understands that the quality of the software in its final form is associated with the quality of the software processes involved and its maintainance
 
 
@@ -83,7 +88,27 @@ _Software Assurance Maturity Model_
 
 
 
+<br>
 
+
+ **Secure System design will help shift left**
+
+
+
+<br> 
+
+### OWASP TOP TEN
+
+* Broken Access Contro 
+* Cryptographic Failures  
+* Injection  
+* Insecure Design 
+* Security Misconfiguratio
+* Vulnerable and Outdated Components 
+* Identification and Authentication Failures  
+* Software and Data Integrity Failures 
+* Security Logging and Monitoring Failures 
+* Server-Side Request Forgery
 
 
 
