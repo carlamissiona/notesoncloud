@@ -51,3 +51,44 @@ _Software Assurance Maturity Model_
 
 
 
+
+**Shifting right fails**
+
+**When Shifting left an organization is placing  more security tools early on the phases of SDLC**
+
+<br><br>
+**Activities In SHIFT LEFT**
+<br>
+
+  **Security Requirements**
+
+
+  **Example these are security requirements but policies may also follows shift left approach to secure software more**
+
+   Security requirement—Application shall ensure that access to the report is limited to authenticated users of the organization that the dashboard-report belongs to.
+
+   Security requirement—Application shall log information related to the admin accounts that create and change the dashboard-report details.
+
+
+
+   **Threat Modeling**
+
+   **Secure Code Review**
+
+   **Scanning for OSS**
+
+   **Testing With DAST**
+
+   **Installing WAF and SEIM**
+
+
+
+
+
+
+
+
+
+
+
+
