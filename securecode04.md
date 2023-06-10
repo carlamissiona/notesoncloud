@@ -39,4 +39,15 @@ _The Capability Maturity Model (CMM) is a methodology used to develop and refine
 * Understands that the quality of the software in its final form is associated with the quality of the software processes involved and its maintainance
 
 
+<br>
+
+**OWASP Has SAMM**
+
+_Software Assurance Maturity Model_
+
+  * A maturity model for software assurance that provides an effective and measurable way to analyze and improve the quality software security 
+  
+  * In other SAMM is a tool to evaluate an organization's existing software security practices
+
+
 
