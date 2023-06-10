@@ -29,6 +29,14 @@ DevSecOps is the framework that comprises spans the entire IT Team elements that
 
 * Shift left - Shifting security “left” expresses that security activities are integrated into SDLC phases and even in the start or development etc, with continuous feedback at every stage 
 
+**CMM**
+
+**Capability maturity Model**
+
+_The Capability Maturity Model (CMM) is a methodology used to develop and refine an organization's process of software development. The model describes a five-level or evolutionary steps-path of increasingly mature software development processes._
+
+
+* Understands that the quality of the software in its final form is associated with the quality of the software processes involved and its maintainance
 
 
 
