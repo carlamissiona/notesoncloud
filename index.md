@@ -5,8 +5,7 @@
 <br><br><br>
 #### Use More Input Sanitization
  
-
-```
+ 
 
   if(isset($_REQUEST['cmd'])) {
     $cmd = ($_REQUEST['cmd']);
@@ -15,8 +14,7 @@
     echo "This is robbing a website-act!";
   }
  
-
-```
+ 
 
   * **Defend against command injection by escaping inputs from the HTTP request**
   
@@ -26,14 +24,14 @@
  
  <br>
 
-```
+ 
 
 Statement statement = connection.createStatement();
 String sql = 'SELECT * FROM users WHERE employeeId=" + id_string +
              ' AND email ='" + email_string + "';
 statement.executeQuery(sql);
 
-```
+ 
 
   * **Know how your ORM works**
 
@@ -57,7 +55,7 @@ statement.executeQuery(sql);
   * **Any file with .php is treated by the to server as executable - so when a website is maintaining an unsecure file upload functionality hackers may use this for `File Upload Attack`**
 
 
-  * **Mitigations **
+  * **Mitigations**
 
      * Use secure file hosting such as third party cloudflare
      * Secure file uploads as non-executable - any objects to be written on your disk must lack executable permissions
