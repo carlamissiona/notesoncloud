@@ -31,8 +31,8 @@
 ```
 
 Statement statement = connection.createStatement();
-String sql = "SELECT * FROM users WHERE employeeId=" + id_string +
-             " AND email ='" + email_string + "'";
+String sql = 'SELECT * FROM users WHERE employeeId=" + id_string +
+             ' AND email ='" + email_string + "';
 statement.executeQuery(sql);
 
 ```
